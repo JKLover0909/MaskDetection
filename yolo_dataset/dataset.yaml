@@ -1,0 +1,8 @@
+names:
+- with_mask
+- without_mask
+- mask_weared_incorrect
+nc: 3
+path: /home/jkl0909/MaskDetection/yolo_dataset
+train: images/train
+val: images/val
